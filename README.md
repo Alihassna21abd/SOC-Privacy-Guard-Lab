@@ -216,31 +216,7 @@ echo '{"message": "Alert: User sarah_admin@bank.iq failed login from 10.0.5.22"}
 
 ## 🛠️ Challenges & Troubleshooting
 
-### ❌ Issue 1: Netcat Syntax Compatibility
-
-**Error:** `nc: unrecognized option: -t`
-
-**Cause:** Alpine Netcat does not support legacy `-t` flag.
-
-**Fix:** Remove flag and pipe string directly into `nc`.
-
----
-
-### ❌ Issue 2: Logstash Configuration Crash
-
-**Error:**
-
-```
-LogStash::ConfigurationError: Expected one of [0-9]...
-```
-
-**Cause:** IP address entered as integer, not string.
-
-**Fix:** Wrap IP in quotes and validate config.
-
----
-
-### ❌ Issue 3: Logs Dropped by Wazuh
+### ❌ Issue 1: Logs Dropped by Wazuh
 
 **Symptoms:** Logs sanitized but no alerts in dashboard.
 
