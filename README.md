@@ -293,32 +293,13 @@ This preserves analyst visibility without exposing identity.
 
 ## 📸 Screenshots & SOC Dashboard Visuals
 
-### 🧩 Architecture Diagram
-
-*Add your lab architecture diagram here*
-
-```
-[ Insert Architecture Diagram Image ]
-```
-
----
-
-### 🚨 Wazuh Alert — Sanitized Event
-
-*Screenshot showing the Level 7 alert generated from the sanitized log*
-
-```
-[ Insert Wazuh Alert Screenshot ]
-```
-
----
-
 ### 📊 Wazuh SOC Dashboard Overview
 
 *Screenshot of main dashboard with security events and widgets*
 
 ```
-[ Insert SOC Dashboard Overview Screenshot ]
+<img width="1517" height="591" alt="image" src="https://github.com/user-attachments/assets/6a6b7138-e023-4c70-a891-03678e306b96" />
+
 ```
 
 ---
@@ -328,26 +309,10 @@ This preserves analyst visibility without exposing identity.
 *Screenshot showing full alert drill-down and event fields*
 
 ```
-[ Insert Alert Details Screenshot ]
-```
-
----
-
-### 🧪 Logstash Pipeline Debug Output
-
-*Screenshot of Logstash console showing redaction in action*
+<img width="1507" height="781" alt="image" src="https://github.com/user-attachments/assets/85cd102d-8f9c-4666-a8ee-aa973b147406" />
 
 ```
-[ Insert Logstash Debug Output Screenshot ]
-```
 
----
 
-## ✅ Outcome
 
-A privacy-first SOC ingestion pipeline that:
 
-* Sanitizes sensitive data in transit
-* Preserves detection capability
-* Meets compliance requirements
-* Demonstrates secure SIEM architecture design
