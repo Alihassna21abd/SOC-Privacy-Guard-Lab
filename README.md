@@ -309,7 +309,7 @@ This preserves analyst visibility without exposing identity.
 *Screenshot showing full alert drill-down and event fields*
 
 ```
-![Alert Details](assets/Screenshot 2026-03-22 154647.png)
+![Alert Details](assets/Screenshot%202026-03-22%20154647.png)
 
 ```
 
