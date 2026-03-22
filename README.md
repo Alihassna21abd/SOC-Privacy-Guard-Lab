@@ -298,7 +298,7 @@ This preserves analyst visibility without exposing identity.
 *Screenshot of main dashboard with security events and widgets*
 
 ```
-<img width="1517" height="591" alt="image" src="https://github.com/user-attachments/assets/6a6b7138-e023-4c70-a891-03678e306b96" />
+<img width="1517" height="591" alt="image" src="assets/wazuh.png" />
 
 ```
 
