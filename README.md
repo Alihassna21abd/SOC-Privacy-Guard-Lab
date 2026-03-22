@@ -295,12 +295,10 @@ This preserves analyst visibility without exposing identity.
 
 ### 📊 Wazuh SOC Dashboard Overview
 
-*Screenshot of main dashboard with security events and widgets*
+*Screenshot of main dashboard*
 
-```
 <img width="1517" height="591" alt="image" src="assets/wazuh.png" />
 
-```
 
 ---
 
@@ -308,10 +306,9 @@ This preserves analyst visibility without exposing identity.
 
 *Screenshot showing full alert drill-down and event fields*
 
-```
+
 ![Alert Details](assets/Screenshot%202026-03-22%20154647.png)
 
-```
 
 
 
